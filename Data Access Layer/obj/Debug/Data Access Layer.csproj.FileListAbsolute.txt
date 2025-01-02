@@ -1,0 +1,6 @@
+C:\Users\HP GHH\Desktop\DVLD System Solution\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\Users\HP GHH\Desktop\DVLD System Solution\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\HP GHH\Desktop\DVLD System Solution\Data Access Layer\obj\Debug\Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\HP GHH\Desktop\DVLD System Solution\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\HP GHH\Desktop\DVLD System Solution\Data Access Layer\obj\Debug\Data Access Layer.dll
+C:\Users\HP GHH\Desktop\DVLD System Solution\Data Access Layer\obj\Debug\Data Access Layer.pdb

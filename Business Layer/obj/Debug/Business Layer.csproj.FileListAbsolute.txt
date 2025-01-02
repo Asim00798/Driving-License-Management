@@ -1,0 +1,9 @@
+C:\Users\HP GHH\Desktop\DVLD System Solution\Business Layer\bin\Debug\Business Layer.dll
+C:\Users\HP GHH\Desktop\DVLD System Solution\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\HP GHH\Desktop\DVLD System Solution\Business Layer\bin\Debug\Data Access Layer.dll
+C:\Users\HP GHH\Desktop\DVLD System Solution\Business Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\HP GHH\Desktop\DVLD System Solution\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+C:\Users\HP GHH\Desktop\DVLD System Solution\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\HP GHH\Desktop\DVLD System Solution\Business Layer\obj\Debug\Business.38778CEF.Up2Date
+C:\Users\HP GHH\Desktop\DVLD System Solution\Business Layer\obj\Debug\Business Layer.dll
+C:\Users\HP GHH\Desktop\DVLD System Solution\Business Layer\obj\Debug\Business Layer.pdb
