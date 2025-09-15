@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP GHH\\Desktop\\DVLD System Solution\\Presentation Layer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60B26A77-1069-4229-AFC3-E95745663AB6}|Presentation Layer.csproj|c:\\users\\hp ghh\\desktop\\dvld system solution\\presentation layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60B26A77-1069-4229-AFC3-E95745663AB6}|Presentation Layer.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP GHH\\Desktop\\DVLD System Solution\\Presentation Layer\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\HP GHH\\Desktop\\DVLD System Solution\\Presentation Layer\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:11:47.886Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
