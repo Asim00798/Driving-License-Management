@@ -32,13 +32,8 @@ DVLD System Solution is a comprehensive Driving License Management System design
     cd dvld-system-solution
     ```
 3. Open the solution file (`.sln`) in Visual Studio.
-4. Set up the database:
-    - Update the connection string in the `app.config` or `appsettings.json` file to point to your SQL Server instance.
-    - Run the migrations to set up the database schema:
     ```sh
-    dotnet ef database update
-    ```
-5. Build and run the application:
+4. Build and run the application:
     - In Visual Studio, build the solution (`Build > Build Solution`).
     - Run the application (`Debug > Start Without Debugging`).
 
